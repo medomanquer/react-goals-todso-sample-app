@@ -1,7 +1,7 @@
 # MyReads Project
 MyReads Project V2.0 by: Ahmed Abdelaziz
 
-## TL;DR
+## Getting Started
 
 To get started developing right away:
 
